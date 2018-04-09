@@ -7,5 +7,5 @@ How it woks :- Once you run the script in command prompt it will ask you for the
 
 Here i have used json and difflib library.
 
-Regards,
+
 Swaroop Humane
